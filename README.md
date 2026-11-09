@@ -1,6 +1,6 @@
 # C-Trap Force Data & Kymograph Position Analysis
 
-Tools for analysing LUMICKS C-Trap kymographs (`.h5`): finding where green-labelled
+Tools for analysing LUMICKS C-Trap force-extension data and kymographs (`.h5`): finding where green-labelled
 proteins bind relative to a red reference marker on DNA, together with the force
 applied during each time window.
 
