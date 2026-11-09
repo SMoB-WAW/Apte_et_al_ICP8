@@ -12,7 +12,8 @@ script was used to analyze the data in https://doi.org/10.5281/zenodo.22134559
 
 
 **Girish R. Apte, Shuvankar Patra, Mariusz Czarnocki-Cieciura, Artur P. Kaczmarczyk, Aqsa Jabeen, Justyna Jackiewicz, Jarosław Poznański, Marcin Nowotny, Małgorzata Figiel**
-**Structural insights into DNA annealing and recombination by herpesviral DNA-binding proteins ICP8 and BALF2**
+
+"Structural insights into DNA annealing and recombination by herpesviral DNA-binding proteins ICP8 and BALF2"
 
 ## Organization
 
